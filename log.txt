@@ -1,0 +1,11 @@
+2026-11-06 02:00:36,737 [INFO] ============================================================
+2026-11-06 02:00:36,737 [INFO] Auto Playlist Scraper Started
+2026-11-06 02:00:36,737 [INFO] ============================================================
+2026-11-06 02:00:36,754 [INFO] Fetching source page: https://www.tamiltvserial.com/all-bigg-boss-live-24-7/
+2026-11-06 02:00:37,107 [INFO] Source page fetched: 9200 bytes
+2026-11-06 02:00:37,108 [INFO] Found 0 total links on source page
+2026-11-06 02:00:37,108 [INFO] Found 0 short links
+2026-11-06 02:00:37,108 [INFO] No m3u8 found yet, checking all links from source page...
+2026-11-06 02:00:37,108 [WARNING] No m3u8 links found at all!
+2026-11-06 02:00:37,109 [INFO] 
+Scraper finished!
