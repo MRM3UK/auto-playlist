@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-08 22:34:17 UTC",
+  "updated": "2026-11-09 01:54:18 UTC",
   "status": "live",
   "source": "https://www.tamiltvserial.com/all-bigg-boss-live-24-7/",
   "total_streams": 2,
   "streams": [
     {
       "id": 1,
-      "url": "https://stream2.zoloj.com/stream/telugu.m3u8?sid=f543b9af089cc54cf5f79b4ac22c219aac2ffedd3eb313c84ce530594b443371"
+      "url": "https://stream2.zoloj.com/stream/tamil.m3u8?sid=69e1270f938912cb98b1f60f6740e4b076a5860669a2029df7ebc4c708549a4f"
     },
     {
       "id": 2,
-      "url": "https://stream2.zoloj.com/stream/tamil.m3u8?sid=7c44337fa4ce6c26e87167052f9611c8acb0e50f2662942547a46c3cd334ed24"
+      "url": "https://stream2.zoloj.com/stream/telugu.m3u8?sid=58d9f92a8547c011f12bcc47da7831b7262818c27b6c8bfa6d1a9dec537d2e9c"
     }
   ]
 }
