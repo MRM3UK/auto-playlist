@@ -1,11 +1,14 @@
 #EXTM3U
-# Updated: 2026-11-26 15:08:22 UTC [live]
+# Updated: 2026-11-26 23:46:30 UTC [live]
 # Source: https://www.tamiltvserial.com/all-bigg-boss-live-24-7/
-# Streams: 2
+# Streams: 3
 
-#EXTINF:-1 tvg-name="Bigg Boss Live Telugu #1" group-title="Bigg Boss",Bigg Boss Live Telugu #1
-https://stream2.zoloj.com/stream/telugu.m3u8?sid=2583c16e8db37834f6a7383329ff94d107f42b0ed3d64841e9780c6224846811
+#EXTINF:-1 tvg-name="Bigg Boss Live Tamil #1" group-title="Bigg Boss",Bigg Boss Live Tamil #1
+https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
 
-#EXTINF:-1 tvg-name="Bigg Boss Live Tamil #2" group-title="Bigg Boss",Bigg Boss Live Tamil #2
-https://stream2.zoloj.com/stream/tamil.m3u8?sid=f9859adedbff6a87f39acfb0d823b4a3196241587d4471a8b675d0009d326a2a
+#EXTINF:-1 tvg-name="Bigg Boss Live Malayalam #2" group-title="Bigg Boss",Bigg Boss Live Malayalam #2
+https://stream2.zoloj.com/stream/malayalam.m3u8?sid=eba0044bd72084f053db91991eeabb597b9ca5b9bee2e0cb0fe23b68ac0e8159
+
+#EXTINF:-1 tvg-name="Bigg Boss Live Telugu #3" group-title="Bigg Boss",Bigg Boss Live Telugu #3
+https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
 

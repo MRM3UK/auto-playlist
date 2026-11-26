@@ -1,123 +1,133 @@
-2026-11-26 15:06:01,538 [INFO] ============================================================
-2026-11-26 15:06:01,538 [INFO] Auto Playlist Scraper v4
-2026-11-26 15:06:01,538 [INFO] ============================================================
-2026-11-26 15:06:01,548 [INFO] Fetching source: https://www.tamiltvserial.com/all-bigg-boss-live-24-7/
-2026-11-26 15:06:01,981 [INFO]   Short links: 5
-2026-11-26 15:06:01,981 [INFO]     https://maskr.blog/58TyuQQRSPFmvge8oLQq
-2026-11-26 15:06:01,981 [INFO]     https://maskr.blog/MNH5dIkHE9xF09T0aNAk
-2026-11-26 15:06:01,981 [INFO]     https://maskr.blog/AUPMfoXAbYeRBr0sKFtX
-2026-11-26 15:06:01,981 [INFO]     https://maskr.blog/OVxQxTdI9nxYdJVewO9S
-2026-11-26 15:06:01,982 [INFO]     https://maskr.blog/11k1DhTKJjThRlLhepyP
-2026-11-26 15:06:01,982 [INFO]   Iframes: 0
-2026-11-26 15:06:01,982 [INFO]   Direct m3u8: 0
-2026-11-26 15:06:01,982 [INFO] 
+2026-11-26 23:44:26,590 [INFO] ============================================================
+2026-11-26 23:44:26,590 [INFO] Auto Playlist Scraper v4
+2026-11-26 23:44:26,590 [INFO] ============================================================
+2026-11-26 23:44:26,596 [INFO] Fetching source: https://www.tamiltvserial.com/all-bigg-boss-live-24-7/
+2026-11-26 23:44:26,826 [INFO]   Short links: 5
+2026-11-26 23:44:26,826 [INFO]     https://maskr.blog/58TyuQQRSPFmvge8oLQq
+2026-11-26 23:44:26,826 [INFO]     https://maskr.blog/MNH5dIkHE9xF09T0aNAk
+2026-11-26 23:44:26,826 [INFO]     https://maskr.blog/AUPMfoXAbYeRBr0sKFtX
+2026-11-26 23:44:26,826 [INFO]     https://maskr.blog/OVxQxTdI9nxYdJVewO9S
+2026-11-26 23:44:26,826 [INFO]     https://maskr.blog/11k1DhTKJjThRlLhepyP
+2026-11-26 23:44:26,826 [INFO]   Iframes: 0
+2026-11-26 23:44:26,826 [INFO]   Direct m3u8: 0
+2026-11-26 23:44:26,826 [INFO] 
 Resolving: https://maskr.blog/58TyuQQRSPFmvge8oLQq
-2026-11-26 15:06:01,982 [INFO]     Hop 1: https://maskr.blog/58TyuQQRSPFmvge8oLQq
-2026-11-26 15:06:02,564 [INFO]     302 → https://kollypress.com/?source=maskr&token=HTc90YhEs_rtBsfy3OmBwt6LgSsQbnP-EBTCzOtmDesT9KrBzOoSXnGxpKPWyffER399ek9EpLrRtUdzVGCOLxhs13d2Z7seNuhjeTx9h9onDDDVBPvf9RMRYV-bKUTI3PSp18CaHstMzGT_6umKo4TTALbeXKeTBi5X26Q4wpbA1qX7D3EWvwwGhWETDu-DD9mZBnGN4qk_U29R2HMEM7bTIDk6Ra3pDFDvlPx6hNu1MOR9ZMYb7mkZmkEFYg&intended=9oHSL2mztKmDVHuqafUBhit9k_D97tpbLP2OKiUfap_dsk9vnScYoyLTeY4TjhdqblQHfKtowjkcKrBtb6ZehYkOvxApQFWPtdvQTEfyUqtIPMohhA&ttl=1795705622&signature=080283d0d22a2d5b4ec539529bd35c3a0a76bdca775df25402e42e58c7221997
-2026-11-26 15:06:02,564 [INFO]     Hop 2: https://kollypress.com/?source=maskr&token=HTc90YhEs_rtBsfy3OmBwt6LgSsQbnP-EBTCzOtmDesT9KrBzOoSXnGxpKPWyffER399ek9EpLrRtUdzVGCOLxhs13d2Z7seNuhjeTx9h9onDDDVBPvf9RMRYV-bKUTI3PSp18CaHstMzGT_6umKo4TTALbeXKeTBi5X26Q4wpbA1qX7D3EWvwwGhWETDu-DD9mZBnGN4qk_U29R2HMEM7bTIDk6Ra3pDFDvlPx6hNu1MOR9ZMYb7mkZmkEFYg&intended=9oHSL2mztKmDVHuqafUBhit9k_D97tpbLP2OKiUfap_dsk9vnScYoyLTeY4TjhdqblQHfKtowjkcKrBtb6ZehYkOvxApQFWPtdvQTEfyUqtIPMohhA&ttl=1795705622&signature=080283d0d22a2d5b4ec539529bd35c3a0a76bdca775df25402e42e58c7221997
-2026-11-26 15:06:02,564 [INFO]     ✅ Destination: https://kollypress.com/?source=maskr&token=HTc90YhEs_rtBsfy3OmBwt6LgSsQbnP-EBTCzOtmDesT9KrBzOoSXnGxpKPWyffER399ek9EpLrRtUdzVGCOLxhs13d2Z7seNuhjeTx9h9onDDDVBPvf9RMRYV-bKUTI3PSp18CaHstMzGT_6umKo4TTALbeXKeTBi5X26Q4wpbA1qX7D3EWvwwGhWETDu-DD9mZBnGN4qk_U29R2HMEM7bTIDk6Ra3pDFDvlPx6hNu1MOR9ZMYb7mkZmkEFYg&intended=9oHSL2mztKmDVHuqafUBhit9k_D97tpbLP2OKiUfap_dsk9vnScYoyLTeY4TjhdqblQHfKtowjkcKrBtb6ZehYkOvxApQFWPtdvQTEfyUqtIPMohhA&ttl=1795705622&signature=080283d0d22a2d5b4ec539529bd35c3a0a76bdca775df25402e42e58c7221997
-2026-11-26 15:06:02,564 [INFO]   → https://kollypress.com/?source=maskr&token=HTc90YhEs_rtBsfy3OmBwt6LgSsQbnP-EBTCzOtmDesT9KrBzOoSXnGxpKPWyffER399ek9EpLrRtUdzVGCOLxhs13d2Z7seNuhjeTx9h9onDDDVBPvf9RMRYV-bKUTI3PSp18CaHstMzGT_6umKo4TTALbeXKeTBi5X26Q4wpbA1qX7D3EWvwwGhWETDu-DD9mZBnGN4qk_U29R2HMEM7bTIDk6Ra3pDFDvlPx6hNu1MOR9ZMYb7mkZmkEFYg&intended=9oHSL2mztKmDVHuqafUBhit9k_D97tpbLP2OKiUfap_dsk9vnScYoyLTeY4TjhdqblQHfKtowjkcKrBtb6ZehYkOvxApQFWPtdvQTEfyUqtIPMohhA&ttl=1795705622&signature=080283d0d22a2d5b4ec539529bd35c3a0a76bdca775df25402e42e58c7221997
-2026-11-26 15:06:02,564 [INFO] 
+2026-11-26 23:44:26,826 [INFO]     Hop 1: https://maskr.blog/58TyuQQRSPFmvge8oLQq
+2026-11-26 23:44:27,364 [INFO]     302 → https://sportspib.com/?source=maskr&token=xIBpaDbJQOuLuQmdKvAXYLqheJkN_dIwy2Ls506lUeP3lRQNHuvL9D4KDZUER8aicRal1D9YkCL2nBN-iZuwlrMvZxZOlogPZMqSRWdz56ZoDAqUtABmQfRgO58-sIYK4tZqODGh4ZQRE_Gm7hGh3JcWnoSSiW185uNx162jD0kjdU7PGm4lmlx_ZUnf6wUB-ceR1jj5hrrfWq3h4OMbxGwhB9TIBwLe9ZYWgfdXLZE5TdIs92P6komVqIHK&intended=nu66-Ua-swdjUcwRgX_1EF8P3wkLOUYcpYG2SXxFtqcvkE6GyEJY9rc0aH8lexK6Ofy1Lk1_zrSiKmGydaXZMMlx3AWgeaqCZybhUCkol7mIer0b0w&ttl=1795736727&signature=f1c860817011295e30710e80b892f7712f946e02eb456527fa730159bccef439
+2026-11-26 23:44:27,364 [INFO]     Hop 2: https://sportspib.com/?source=maskr&token=xIBpaDbJQOuLuQmdKvAXYLqheJkN_dIwy2Ls506lUeP3lRQNHuvL9D4KDZUER8aicRal1D9YkCL2nBN-iZuwlrMvZxZOlogPZMqSRWdz56ZoDAqUtABmQfRgO58-sIYK4tZqODGh4ZQRE_Gm7hGh3JcWnoSSiW185uNx162jD0kjdU7PGm4lmlx_ZUnf6wUB-ceR1jj5hrrfWq3h4OMbxGwhB9TIBwLe9ZYWgfdXLZE5TdIs92P6komVqIHK&intended=nu66-Ua-swdjUcwRgX_1EF8P3wkLOUYcpYG2SXxFtqcvkE6GyEJY9rc0aH8lexK6Ofy1Lk1_zrSiKmGydaXZMMlx3AWgeaqCZybhUCkol7mIer0b0w&ttl=1795736727&signature=f1c860817011295e30710e80b892f7712f946e02eb456527fa730159bccef439
+2026-11-26 23:44:27,364 [INFO]     ✅ Destination: https://sportspib.com/?source=maskr&token=xIBpaDbJQOuLuQmdKvAXYLqheJkN_dIwy2Ls506lUeP3lRQNHuvL9D4KDZUER8aicRal1D9YkCL2nBN-iZuwlrMvZxZOlogPZMqSRWdz56ZoDAqUtABmQfRgO58-sIYK4tZqODGh4ZQRE_Gm7hGh3JcWnoSSiW185uNx162jD0kjdU7PGm4lmlx_ZUnf6wUB-ceR1jj5hrrfWq3h4OMbxGwhB9TIBwLe9ZYWgfdXLZE5TdIs92P6komVqIHK&intended=nu66-Ua-swdjUcwRgX_1EF8P3wkLOUYcpYG2SXxFtqcvkE6GyEJY9rc0aH8lexK6Ofy1Lk1_zrSiKmGydaXZMMlx3AWgeaqCZybhUCkol7mIer0b0w&ttl=1795736727&signature=f1c860817011295e30710e80b892f7712f946e02eb456527fa730159bccef439
+2026-11-26 23:44:27,364 [INFO]   → https://sportspib.com/?source=maskr&token=xIBpaDbJQOuLuQmdKvAXYLqheJkN_dIwy2Ls506lUeP3lRQNHuvL9D4KDZUER8aicRal1D9YkCL2nBN-iZuwlrMvZxZOlogPZMqSRWdz56ZoDAqUtABmQfRgO58-sIYK4tZqODGh4ZQRE_Gm7hGh3JcWnoSSiW185uNx162jD0kjdU7PGm4lmlx_ZUnf6wUB-ceR1jj5hrrfWq3h4OMbxGwhB9TIBwLe9ZYWgfdXLZE5TdIs92P6komVqIHK&intended=nu66-Ua-swdjUcwRgX_1EF8P3wkLOUYcpYG2SXxFtqcvkE6GyEJY9rc0aH8lexK6Ofy1Lk1_zrSiKmGydaXZMMlx3AWgeaqCZybhUCkol7mIer0b0w&ttl=1795736727&signature=f1c860817011295e30710e80b892f7712f946e02eb456527fa730159bccef439
+2026-11-26 23:44:27,364 [INFO] 
 Resolving: https://maskr.blog/MNH5dIkHE9xF09T0aNAk
-2026-11-26 15:06:02,564 [INFO]     Hop 1: https://maskr.blog/MNH5dIkHE9xF09T0aNAk
-2026-11-26 15:06:02,774 [INFO]     302 → https://sportspib.com/?source=maskr&token=6rzuMRtGqzC-NovZ3_DrSeO8Ue2tjqmkfTXEaH8UkVvM_XYO-nPuCNfk6gH6kSoTOttdr1KzOkfHNpAZRS7LdthOrTFPBBYllN432nywk-Et3LL878Dsl0PaUem75ckwB6iiPzzjUv-Q-UptPZQaWzbBclFSWwbSQ-SJ77pSFbLQswCL-ItHmQqUNsGU1EgkZ3Zt5lwENg9wwgsDNiivMu7ZSfXqJfpSKCJd44y6_24lhRR9AE0dqZ8Au_nm&intended=wFfqRlqBZ-usmFoorHqpaXQ22QPDTHKcnOrZd-_O4RkLPhmSlaNcsZ1yNbYCxbJlBT5Tq3SymvxiYTBve_oxPNjT3gF9eTqVdF0L7AascyPCRualau8&ttl=1795705622&signature=612d8c44bbf8800c04215102ee72117811e039dd3b75a309ebcd5340e5ab3ba7
-2026-11-26 15:06:02,774 [INFO]     Hop 2: https://sportspib.com/?source=maskr&token=6rzuMRtGqzC-NovZ3_DrSeO8Ue2tjqmkfTXEaH8UkVvM_XYO-nPuCNfk6gH6kSoTOttdr1KzOkfHNpAZRS7LdthOrTFPBBYllN432nywk-Et3LL878Dsl0PaUem75ckwB6iiPzzjUv-Q-UptPZQaWzbBclFSWwbSQ-SJ77pSFbLQswCL-ItHmQqUNsGU1EgkZ3Zt5lwENg9wwgsDNiivMu7ZSfXqJfpSKCJd44y6_24lhRR9AE0dqZ8Au_nm&intended=wFfqRlqBZ-usmFoorHqpaXQ22QPDTHKcnOrZd-_O4RkLPhmSlaNcsZ1yNbYCxbJlBT5Tq3SymvxiYTBve_oxPNjT3gF9eTqVdF0L7AascyPCRualau8&ttl=1795705622&signature=612d8c44bbf8800c04215102ee72117811e039dd3b75a309ebcd5340e5ab3ba7
-2026-11-26 15:06:02,774 [INFO]     ✅ Destination: https://sportspib.com/?source=maskr&token=6rzuMRtGqzC-NovZ3_DrSeO8Ue2tjqmkfTXEaH8UkVvM_XYO-nPuCNfk6gH6kSoTOttdr1KzOkfHNpAZRS7LdthOrTFPBBYllN432nywk-Et3LL878Dsl0PaUem75ckwB6iiPzzjUv-Q-UptPZQaWzbBclFSWwbSQ-SJ77pSFbLQswCL-ItHmQqUNsGU1EgkZ3Zt5lwENg9wwgsDNiivMu7ZSfXqJfpSKCJd44y6_24lhRR9AE0dqZ8Au_nm&intended=wFfqRlqBZ-usmFoorHqpaXQ22QPDTHKcnOrZd-_O4RkLPhmSlaNcsZ1yNbYCxbJlBT5Tq3SymvxiYTBve_oxPNjT3gF9eTqVdF0L7AascyPCRualau8&ttl=1795705622&signature=612d8c44bbf8800c04215102ee72117811e039dd3b75a309ebcd5340e5ab3ba7
-2026-11-26 15:06:02,774 [INFO]   → https://sportspib.com/?source=maskr&token=6rzuMRtGqzC-NovZ3_DrSeO8Ue2tjqmkfTXEaH8UkVvM_XYO-nPuCNfk6gH6kSoTOttdr1KzOkfHNpAZRS7LdthOrTFPBBYllN432nywk-Et3LL878Dsl0PaUem75ckwB6iiPzzjUv-Q-UptPZQaWzbBclFSWwbSQ-SJ77pSFbLQswCL-ItHmQqUNsGU1EgkZ3Zt5lwENg9wwgsDNiivMu7ZSfXqJfpSKCJd44y6_24lhRR9AE0dqZ8Au_nm&intended=wFfqRlqBZ-usmFoorHqpaXQ22QPDTHKcnOrZd-_O4RkLPhmSlaNcsZ1yNbYCxbJlBT5Tq3SymvxiYTBve_oxPNjT3gF9eTqVdF0L7AascyPCRualau8&ttl=1795705622&signature=612d8c44bbf8800c04215102ee72117811e039dd3b75a309ebcd5340e5ab3ba7
-2026-11-26 15:06:02,774 [INFO] 
+2026-11-26 23:44:27,364 [INFO]     Hop 1: https://maskr.blog/MNH5dIkHE9xF09T0aNAk
+2026-11-26 23:44:27,554 [INFO]     302 → https://kollypress.com/?source=maskr&token=PI0aS7wVU1nrsF5u9uo9AvTKdD4cyV1cF3CypDQaO4rAM4_CAvVAYSj6VMtGWTjYXYwFldqTPd6t5nKF57wjhdZx2vCuZCP7G6MIu7H1qxSqSfOqlo78_ivszjX6e3rSMCxjqBB3kCqDA-qa3W3wSG4SQNMs7jplJ0yIr7nxSjOxGHEc27SbJsl214mKfv__gmYDoOkXvCkq4Ng6imvaOq7kAad0aOhBmO9Ft-ucXAlpmkHdqPXlB6mnHACK2g&intended=8ySs_18yTzlmxY-cC8pGFkrvGnqCjiFXVRTL-C7ZekEPwALP2KBPxp1dur5BXpWXa9sQeCNK1lymjR373YIZgxJ5TIrqXI1OpHh7Ry8psGV8cYSUH3k&ttl=1795736727&signature=fbea47250a475189c7bea98378de3ecd1d86039ff8b4c3bc20717d828d5b9226
+2026-11-26 23:44:27,554 [INFO]     Hop 2: https://kollypress.com/?source=maskr&token=PI0aS7wVU1nrsF5u9uo9AvTKdD4cyV1cF3CypDQaO4rAM4_CAvVAYSj6VMtGWTjYXYwFldqTPd6t5nKF57wjhdZx2vCuZCP7G6MIu7H1qxSqSfOqlo78_ivszjX6e3rSMCxjqBB3kCqDA-qa3W3wSG4SQNMs7jplJ0yIr7nxSjOxGHEc27SbJsl214mKfv__gmYDoOkXvCkq4Ng6imvaOq7kAad0aOhBmO9Ft-ucXAlpmkHdqPXlB6mnHACK2g&intended=8ySs_18yTzlmxY-cC8pGFkrvGnqCjiFXVRTL-C7ZekEPwALP2KBPxp1dur5BXpWXa9sQeCNK1lymjR373YIZgxJ5TIrqXI1OpHh7Ry8psGV8cYSUH3k&ttl=1795736727&signature=fbea47250a475189c7bea98378de3ecd1d86039ff8b4c3bc20717d828d5b9226
+2026-11-26 23:44:27,554 [INFO]     ✅ Destination: https://kollypress.com/?source=maskr&token=PI0aS7wVU1nrsF5u9uo9AvTKdD4cyV1cF3CypDQaO4rAM4_CAvVAYSj6VMtGWTjYXYwFldqTPd6t5nKF57wjhdZx2vCuZCP7G6MIu7H1qxSqSfOqlo78_ivszjX6e3rSMCxjqBB3kCqDA-qa3W3wSG4SQNMs7jplJ0yIr7nxSjOxGHEc27SbJsl214mKfv__gmYDoOkXvCkq4Ng6imvaOq7kAad0aOhBmO9Ft-ucXAlpmkHdqPXlB6mnHACK2g&intended=8ySs_18yTzlmxY-cC8pGFkrvGnqCjiFXVRTL-C7ZekEPwALP2KBPxp1dur5BXpWXa9sQeCNK1lymjR373YIZgxJ5TIrqXI1OpHh7Ry8psGV8cYSUH3k&ttl=1795736727&signature=fbea47250a475189c7bea98378de3ecd1d86039ff8b4c3bc20717d828d5b9226
+2026-11-26 23:44:27,554 [INFO]   → https://kollypress.com/?source=maskr&token=PI0aS7wVU1nrsF5u9uo9AvTKdD4cyV1cF3CypDQaO4rAM4_CAvVAYSj6VMtGWTjYXYwFldqTPd6t5nKF57wjhdZx2vCuZCP7G6MIu7H1qxSqSfOqlo78_ivszjX6e3rSMCxjqBB3kCqDA-qa3W3wSG4SQNMs7jplJ0yIr7nxSjOxGHEc27SbJsl214mKfv__gmYDoOkXvCkq4Ng6imvaOq7kAad0aOhBmO9Ft-ucXAlpmkHdqPXlB6mnHACK2g&intended=8ySs_18yTzlmxY-cC8pGFkrvGnqCjiFXVRTL-C7ZekEPwALP2KBPxp1dur5BXpWXa9sQeCNK1lymjR373YIZgxJ5TIrqXI1OpHh7Ry8psGV8cYSUH3k&ttl=1795736727&signature=fbea47250a475189c7bea98378de3ecd1d86039ff8b4c3bc20717d828d5b9226
+2026-11-26 23:44:27,554 [INFO] 
 Resolving: https://maskr.blog/AUPMfoXAbYeRBr0sKFtX
-2026-11-26 15:06:02,774 [INFO]     Hop 1: https://maskr.blog/AUPMfoXAbYeRBr0sKFtX
-2026-11-26 15:06:02,995 [INFO]     302 → https://kollypress.com/?source=maskr&token=eRvA-7iMDRt6jcc86Pxe-W7GDnB7xXVPVeCIobEZLiBqDIw4RxuArfQPHDyt5YV7WJm0cu2jF0OAH2h-V1ddSgKVFjY9wZb2fbzBDHX6h7YK19AubsydBc71A9ng7uz9eKwSUX5m5cdZ0m_u9XMw2adPHV289wa-7vbEWZbK3UUDAlbhka2N0J55QBAi5Th1HrPY0E51hVHC-Es8dnSAZEZnQhnk-JAdXpHFWVOFaFQup-IjfCQVBwUk6ENlIA&intended=742nxSuBYn3gd3e-PXs5B-fHw8TeG6tJSMDMe14p7XmjiPrnlDy-jEpVaX2G555YamdA6a9udmbbaPUYhbiDaGxhMUDE1xhio-m9WvuTnX988YfSeh8&ttl=1795705622&signature=a6fe2ec730e36f2593dba3b4cad2e255b21d20d8c56a4dd8ec76e4cee8c93659
-2026-11-26 15:06:02,995 [INFO]     Hop 2: https://kollypress.com/?source=maskr&token=eRvA-7iMDRt6jcc86Pxe-W7GDnB7xXVPVeCIobEZLiBqDIw4RxuArfQPHDyt5YV7WJm0cu2jF0OAH2h-V1ddSgKVFjY9wZb2fbzBDHX6h7YK19AubsydBc71A9ng7uz9eKwSUX5m5cdZ0m_u9XMw2adPHV289wa-7vbEWZbK3UUDAlbhka2N0J55QBAi5Th1HrPY0E51hVHC-Es8dnSAZEZnQhnk-JAdXpHFWVOFaFQup-IjfCQVBwUk6ENlIA&intended=742nxSuBYn3gd3e-PXs5B-fHw8TeG6tJSMDMe14p7XmjiPrnlDy-jEpVaX2G555YamdA6a9udmbbaPUYhbiDaGxhMUDE1xhio-m9WvuTnX988YfSeh8&ttl=1795705622&signature=a6fe2ec730e36f2593dba3b4cad2e255b21d20d8c56a4dd8ec76e4cee8c93659
-2026-11-26 15:06:02,995 [INFO]     ✅ Destination: https://kollypress.com/?source=maskr&token=eRvA-7iMDRt6jcc86Pxe-W7GDnB7xXVPVeCIobEZLiBqDIw4RxuArfQPHDyt5YV7WJm0cu2jF0OAH2h-V1ddSgKVFjY9wZb2fbzBDHX6h7YK19AubsydBc71A9ng7uz9eKwSUX5m5cdZ0m_u9XMw2adPHV289wa-7vbEWZbK3UUDAlbhka2N0J55QBAi5Th1HrPY0E51hVHC-Es8dnSAZEZnQhnk-JAdXpHFWVOFaFQup-IjfCQVBwUk6ENlIA&intended=742nxSuBYn3gd3e-PXs5B-fHw8TeG6tJSMDMe14p7XmjiPrnlDy-jEpVaX2G555YamdA6a9udmbbaPUYhbiDaGxhMUDE1xhio-m9WvuTnX988YfSeh8&ttl=1795705622&signature=a6fe2ec730e36f2593dba3b4cad2e255b21d20d8c56a4dd8ec76e4cee8c93659
-2026-11-26 15:06:02,995 [INFO]   → https://kollypress.com/?source=maskr&token=eRvA-7iMDRt6jcc86Pxe-W7GDnB7xXVPVeCIobEZLiBqDIw4RxuArfQPHDyt5YV7WJm0cu2jF0OAH2h-V1ddSgKVFjY9wZb2fbzBDHX6h7YK19AubsydBc71A9ng7uz9eKwSUX5m5cdZ0m_u9XMw2adPHV289wa-7vbEWZbK3UUDAlbhka2N0J55QBAi5Th1HrPY0E51hVHC-Es8dnSAZEZnQhnk-JAdXpHFWVOFaFQup-IjfCQVBwUk6ENlIA&intended=742nxSuBYn3gd3e-PXs5B-fHw8TeG6tJSMDMe14p7XmjiPrnlDy-jEpVaX2G555YamdA6a9udmbbaPUYhbiDaGxhMUDE1xhio-m9WvuTnX988YfSeh8&ttl=1795705622&signature=a6fe2ec730e36f2593dba3b4cad2e255b21d20d8c56a4dd8ec76e4cee8c93659
-2026-11-26 15:06:02,995 [INFO] 
+2026-11-26 23:44:27,554 [INFO]     Hop 1: https://maskr.blog/AUPMfoXAbYeRBr0sKFtX
+2026-11-26 23:44:27,753 [INFO]     302 → https://sportspib.com/?source=maskr&token=NV5ayAIvKtBNdZpO4FsirJkhL5mUYHM45R4yOO1UE0V4xTJyfNWNNqnPxmC3Fzc4eK6TRX6KI8uCnyGp_Fx6RuUqQhN6gz6C-G_jk4FhVBiO8_32sVlrIm1Sv7HdzyokULZVZto6NBZPHhY3b92Os3LuqG1nz-Qrpa-Gkd3LkTPBrkftxt4tAZAXKfWdQH0CI8sHADFwZH0EAkf43i6Ka8Hpw7fk4K-wTDQizxU4m-fs2sZt8Z-UJljp4HCk&intended=S5PKrefnvty-mSV5PEu2G3_i3aJ_wIP66Xsd8lEgiCcdJw4itpFpb5bKvA0ZPKKQ4iaLjHEzoK4Dg0bLScefxC_tCLEcXvBX1macIPTo6q6ctnMUU9c&ttl=1795736727&signature=65af65fcb27800a5bb562dd3737417c475529b4e8a807070c4684b1f6b601abe
+2026-11-26 23:44:27,753 [INFO]     Hop 2: https://sportspib.com/?source=maskr&token=NV5ayAIvKtBNdZpO4FsirJkhL5mUYHM45R4yOO1UE0V4xTJyfNWNNqnPxmC3Fzc4eK6TRX6KI8uCnyGp_Fx6RuUqQhN6gz6C-G_jk4FhVBiO8_32sVlrIm1Sv7HdzyokULZVZto6NBZPHhY3b92Os3LuqG1nz-Qrpa-Gkd3LkTPBrkftxt4tAZAXKfWdQH0CI8sHADFwZH0EAkf43i6Ka8Hpw7fk4K-wTDQizxU4m-fs2sZt8Z-UJljp4HCk&intended=S5PKrefnvty-mSV5PEu2G3_i3aJ_wIP66Xsd8lEgiCcdJw4itpFpb5bKvA0ZPKKQ4iaLjHEzoK4Dg0bLScefxC_tCLEcXvBX1macIPTo6q6ctnMUU9c&ttl=1795736727&signature=65af65fcb27800a5bb562dd3737417c475529b4e8a807070c4684b1f6b601abe
+2026-11-26 23:44:27,753 [INFO]     ✅ Destination: https://sportspib.com/?source=maskr&token=NV5ayAIvKtBNdZpO4FsirJkhL5mUYHM45R4yOO1UE0V4xTJyfNWNNqnPxmC3Fzc4eK6TRX6KI8uCnyGp_Fx6RuUqQhN6gz6C-G_jk4FhVBiO8_32sVlrIm1Sv7HdzyokULZVZto6NBZPHhY3b92Os3LuqG1nz-Qrpa-Gkd3LkTPBrkftxt4tAZAXKfWdQH0CI8sHADFwZH0EAkf43i6Ka8Hpw7fk4K-wTDQizxU4m-fs2sZt8Z-UJljp4HCk&intended=S5PKrefnvty-mSV5PEu2G3_i3aJ_wIP66Xsd8lEgiCcdJw4itpFpb5bKvA0ZPKKQ4iaLjHEzoK4Dg0bLScefxC_tCLEcXvBX1macIPTo6q6ctnMUU9c&ttl=1795736727&signature=65af65fcb27800a5bb562dd3737417c475529b4e8a807070c4684b1f6b601abe
+2026-11-26 23:44:27,753 [INFO]   → https://sportspib.com/?source=maskr&token=NV5ayAIvKtBNdZpO4FsirJkhL5mUYHM45R4yOO1UE0V4xTJyfNWNNqnPxmC3Fzc4eK6TRX6KI8uCnyGp_Fx6RuUqQhN6gz6C-G_jk4FhVBiO8_32sVlrIm1Sv7HdzyokULZVZto6NBZPHhY3b92Os3LuqG1nz-Qrpa-Gkd3LkTPBrkftxt4tAZAXKfWdQH0CI8sHADFwZH0EAkf43i6Ka8Hpw7fk4K-wTDQizxU4m-fs2sZt8Z-UJljp4HCk&intended=S5PKrefnvty-mSV5PEu2G3_i3aJ_wIP66Xsd8lEgiCcdJw4itpFpb5bKvA0ZPKKQ4iaLjHEzoK4Dg0bLScefxC_tCLEcXvBX1macIPTo6q6ctnMUU9c&ttl=1795736727&signature=65af65fcb27800a5bb562dd3737417c475529b4e8a807070c4684b1f6b601abe
+2026-11-26 23:44:27,753 [INFO] 
 Resolving: https://maskr.blog/OVxQxTdI9nxYdJVewO9S
-2026-11-26 15:06:02,995 [INFO]     Hop 1: https://maskr.blog/OVxQxTdI9nxYdJVewO9S
-2026-11-26 15:06:03,218 [INFO]     302 → https://sportspib.com/?source=maskr&token=f_bfHXC1-ICcuLlhT8WD1JhNBQGt0Re-J1hY90tKraJkfJvloiEhj73b1L0_Z6hfNC_hEySJVasn1dN1_YPuCOukWiIiFRJ-pFZdNZjstO-ECum7PggWe-hcgDZ9UKgwu6fcxYBjZ2ZdCoqzXRfgwxuK_vTzspejBhDG06F-F4RRF3YNT910NCO6DFLpZCIgfzk4WNYetgzHOlM3ZbtD1Gc6LQ_gKjJXqRcIgqy6Jko6_tHHM1hjyjF2bXmA&intended=t1zndOQBft6yrYKltStVBaCSDkYSFC1JL987X8YVHGE_BU7wJcZYANVcchz_OfTywOKLTHF4lxtrqN_YXgMl73NVO5NU8zSakupdnkXP86QPiNDlD6h5&ttl=1795705623&signature=8f58fe6ebd70abed48147f0a6b426733eec0453c5d9fa44542d2f89b732b3c6a
-2026-11-26 15:06:03,218 [INFO]     Hop 2: https://sportspib.com/?source=maskr&token=f_bfHXC1-ICcuLlhT8WD1JhNBQGt0Re-J1hY90tKraJkfJvloiEhj73b1L0_Z6hfNC_hEySJVasn1dN1_YPuCOukWiIiFRJ-pFZdNZjstO-ECum7PggWe-hcgDZ9UKgwu6fcxYBjZ2ZdCoqzXRfgwxuK_vTzspejBhDG06F-F4RRF3YNT910NCO6DFLpZCIgfzk4WNYetgzHOlM3ZbtD1Gc6LQ_gKjJXqRcIgqy6Jko6_tHHM1hjyjF2bXmA&intended=t1zndOQBft6yrYKltStVBaCSDkYSFC1JL987X8YVHGE_BU7wJcZYANVcchz_OfTywOKLTHF4lxtrqN_YXgMl73NVO5NU8zSakupdnkXP86QPiNDlD6h5&ttl=1795705623&signature=8f58fe6ebd70abed48147f0a6b426733eec0453c5d9fa44542d2f89b732b3c6a
-2026-11-26 15:06:03,219 [INFO]     ✅ Destination: https://sportspib.com/?source=maskr&token=f_bfHXC1-ICcuLlhT8WD1JhNBQGt0Re-J1hY90tKraJkfJvloiEhj73b1L0_Z6hfNC_hEySJVasn1dN1_YPuCOukWiIiFRJ-pFZdNZjstO-ECum7PggWe-hcgDZ9UKgwu6fcxYBjZ2ZdCoqzXRfgwxuK_vTzspejBhDG06F-F4RRF3YNT910NCO6DFLpZCIgfzk4WNYetgzHOlM3ZbtD1Gc6LQ_gKjJXqRcIgqy6Jko6_tHHM1hjyjF2bXmA&intended=t1zndOQBft6yrYKltStVBaCSDkYSFC1JL987X8YVHGE_BU7wJcZYANVcchz_OfTywOKLTHF4lxtrqN_YXgMl73NVO5NU8zSakupdnkXP86QPiNDlD6h5&ttl=1795705623&signature=8f58fe6ebd70abed48147f0a6b426733eec0453c5d9fa44542d2f89b732b3c6a
-2026-11-26 15:06:03,219 [INFO]   → https://sportspib.com/?source=maskr&token=f_bfHXC1-ICcuLlhT8WD1JhNBQGt0Re-J1hY90tKraJkfJvloiEhj73b1L0_Z6hfNC_hEySJVasn1dN1_YPuCOukWiIiFRJ-pFZdNZjstO-ECum7PggWe-hcgDZ9UKgwu6fcxYBjZ2ZdCoqzXRfgwxuK_vTzspejBhDG06F-F4RRF3YNT910NCO6DFLpZCIgfzk4WNYetgzHOlM3ZbtD1Gc6LQ_gKjJXqRcIgqy6Jko6_tHHM1hjyjF2bXmA&intended=t1zndOQBft6yrYKltStVBaCSDkYSFC1JL987X8YVHGE_BU7wJcZYANVcchz_OfTywOKLTHF4lxtrqN_YXgMl73NVO5NU8zSakupdnkXP86QPiNDlD6h5&ttl=1795705623&signature=8f58fe6ebd70abed48147f0a6b426733eec0453c5d9fa44542d2f89b732b3c6a
-2026-11-26 15:06:03,219 [INFO] 
+2026-11-26 23:44:27,753 [INFO]     Hop 1: https://maskr.blog/OVxQxTdI9nxYdJVewO9S
+2026-11-26 23:44:27,940 [INFO]     302 → https://kollypress.com/?source=maskr&token=F-LuMLEx36Dstu0m9nbAm5Hbrptcn0XGBNlTdUaN0qTGyuLur2mmkJSmcxlw2l1-NrldeJyJMKyQArh4nvsTkQTpmCd5Kr6kU0YoTO1loMQ3-n3jWnlhz6aXVdsGv3fLZuKNIil2XzHlP3GqRAwdu9KjbQ1tqIG_HsBSNYlCAypDQxT50VhGqaqce2IJXUeBpm_4bDoBxDyUXYaaCtU6gFNy5YULdwUpuUz8L10s283_YO1v_BIJFahCxVbkqw&intended=bXJRrgpJNriTGbSgIDUfBb0rnVaUS1HRJYo9p4N71C4h0yHDkWJZp9tydvtP0nXBfo-KYidKLIgbwsYEVEne0Du8M1M2g0YFBff3x1lTxXRiOM8gkk1F&ttl=1795736727&signature=996dc72031450e1b960b6590eb423ac3150b54341fceb5a25439152b7533b29b
+2026-11-26 23:44:27,940 [INFO]     Hop 2: https://kollypress.com/?source=maskr&token=F-LuMLEx36Dstu0m9nbAm5Hbrptcn0XGBNlTdUaN0qTGyuLur2mmkJSmcxlw2l1-NrldeJyJMKyQArh4nvsTkQTpmCd5Kr6kU0YoTO1loMQ3-n3jWnlhz6aXVdsGv3fLZuKNIil2XzHlP3GqRAwdu9KjbQ1tqIG_HsBSNYlCAypDQxT50VhGqaqce2IJXUeBpm_4bDoBxDyUXYaaCtU6gFNy5YULdwUpuUz8L10s283_YO1v_BIJFahCxVbkqw&intended=bXJRrgpJNriTGbSgIDUfBb0rnVaUS1HRJYo9p4N71C4h0yHDkWJZp9tydvtP0nXBfo-KYidKLIgbwsYEVEne0Du8M1M2g0YFBff3x1lTxXRiOM8gkk1F&ttl=1795736727&signature=996dc72031450e1b960b6590eb423ac3150b54341fceb5a25439152b7533b29b
+2026-11-26 23:44:27,940 [INFO]     ✅ Destination: https://kollypress.com/?source=maskr&token=F-LuMLEx36Dstu0m9nbAm5Hbrptcn0XGBNlTdUaN0qTGyuLur2mmkJSmcxlw2l1-NrldeJyJMKyQArh4nvsTkQTpmCd5Kr6kU0YoTO1loMQ3-n3jWnlhz6aXVdsGv3fLZuKNIil2XzHlP3GqRAwdu9KjbQ1tqIG_HsBSNYlCAypDQxT50VhGqaqce2IJXUeBpm_4bDoBxDyUXYaaCtU6gFNy5YULdwUpuUz8L10s283_YO1v_BIJFahCxVbkqw&intended=bXJRrgpJNriTGbSgIDUfBb0rnVaUS1HRJYo9p4N71C4h0yHDkWJZp9tydvtP0nXBfo-KYidKLIgbwsYEVEne0Du8M1M2g0YFBff3x1lTxXRiOM8gkk1F&ttl=1795736727&signature=996dc72031450e1b960b6590eb423ac3150b54341fceb5a25439152b7533b29b
+2026-11-26 23:44:27,940 [INFO]   → https://kollypress.com/?source=maskr&token=F-LuMLEx36Dstu0m9nbAm5Hbrptcn0XGBNlTdUaN0qTGyuLur2mmkJSmcxlw2l1-NrldeJyJMKyQArh4nvsTkQTpmCd5Kr6kU0YoTO1loMQ3-n3jWnlhz6aXVdsGv3fLZuKNIil2XzHlP3GqRAwdu9KjbQ1tqIG_HsBSNYlCAypDQxT50VhGqaqce2IJXUeBpm_4bDoBxDyUXYaaCtU6gFNy5YULdwUpuUz8L10s283_YO1v_BIJFahCxVbkqw&intended=bXJRrgpJNriTGbSgIDUfBb0rnVaUS1HRJYo9p4N71C4h0yHDkWJZp9tydvtP0nXBfo-KYidKLIgbwsYEVEne0Du8M1M2g0YFBff3x1lTxXRiOM8gkk1F&ttl=1795736727&signature=996dc72031450e1b960b6590eb423ac3150b54341fceb5a25439152b7533b29b
+2026-11-26 23:44:27,940 [INFO] 
 Resolving: https://maskr.blog/11k1DhTKJjThRlLhepyP
-2026-11-26 15:06:03,219 [INFO]     Hop 1: https://maskr.blog/11k1DhTKJjThRlLhepyP
-2026-11-26 15:06:03,426 [INFO]     302 → https://kollypress.com/?source=maskr&token=ExLmagnFLH2V-AitreniL31FLv-1API3yDWxU2ZL27UKpJGR5PhzygR4cd51_Gh1oKDc-M3rlcbP3ZFIM6T3tFlbAGDhZ9vEFU01Vay5bPl4tlI6YhhxB-55GkkhrgSN1_vev3VlVYB11pgm5N-iQBTWKlalkyzl5IoIIbh4o9NpLpKAFTiUS2uX2SQQv_ZN9nr5br3IEDoLh5SnqWkgsGUM1WNtuUPw0Asq3EoRBc3n86-3xDX8ZdupewV7cg&intended=B9Y74xPg4Isk3jFBT-R7Sqmyq0ibJ8Pcp0y09OhWK9NLk5h9kXDmKqAP4aBx8QTji4br5xzpMhUjjuS6Nnsf5XSToyCrjfdd-aodCL4M3cfJOx6-zQ&ttl=1795705623&signature=36a5074e66e90d3f5f66722407b0724151a4029f732da3b6951a0f21c16b6f5f
-2026-11-26 15:06:03,426 [INFO]     Hop 2: https://kollypress.com/?source=maskr&token=ExLmagnFLH2V-AitreniL31FLv-1API3yDWxU2ZL27UKpJGR5PhzygR4cd51_Gh1oKDc-M3rlcbP3ZFIM6T3tFlbAGDhZ9vEFU01Vay5bPl4tlI6YhhxB-55GkkhrgSN1_vev3VlVYB11pgm5N-iQBTWKlalkyzl5IoIIbh4o9NpLpKAFTiUS2uX2SQQv_ZN9nr5br3IEDoLh5SnqWkgsGUM1WNtuUPw0Asq3EoRBc3n86-3xDX8ZdupewV7cg&intended=B9Y74xPg4Isk3jFBT-R7Sqmyq0ibJ8Pcp0y09OhWK9NLk5h9kXDmKqAP4aBx8QTji4br5xzpMhUjjuS6Nnsf5XSToyCrjfdd-aodCL4M3cfJOx6-zQ&ttl=1795705623&signature=36a5074e66e90d3f5f66722407b0724151a4029f732da3b6951a0f21c16b6f5f
-2026-11-26 15:06:03,426 [INFO]     ✅ Destination: https://kollypress.com/?source=maskr&token=ExLmagnFLH2V-AitreniL31FLv-1API3yDWxU2ZL27UKpJGR5PhzygR4cd51_Gh1oKDc-M3rlcbP3ZFIM6T3tFlbAGDhZ9vEFU01Vay5bPl4tlI6YhhxB-55GkkhrgSN1_vev3VlVYB11pgm5N-iQBTWKlalkyzl5IoIIbh4o9NpLpKAFTiUS2uX2SQQv_ZN9nr5br3IEDoLh5SnqWkgsGUM1WNtuUPw0Asq3EoRBc3n86-3xDX8ZdupewV7cg&intended=B9Y74xPg4Isk3jFBT-R7Sqmyq0ibJ8Pcp0y09OhWK9NLk5h9kXDmKqAP4aBx8QTji4br5xzpMhUjjuS6Nnsf5XSToyCrjfdd-aodCL4M3cfJOx6-zQ&ttl=1795705623&signature=36a5074e66e90d3f5f66722407b0724151a4029f732da3b6951a0f21c16b6f5f
-2026-11-26 15:06:03,427 [INFO]   → https://kollypress.com/?source=maskr&token=ExLmagnFLH2V-AitreniL31FLv-1API3yDWxU2ZL27UKpJGR5PhzygR4cd51_Gh1oKDc-M3rlcbP3ZFIM6T3tFlbAGDhZ9vEFU01Vay5bPl4tlI6YhhxB-55GkkhrgSN1_vev3VlVYB11pgm5N-iQBTWKlalkyzl5IoIIbh4o9NpLpKAFTiUS2uX2SQQv_ZN9nr5br3IEDoLh5SnqWkgsGUM1WNtuUPw0Asq3EoRBc3n86-3xDX8ZdupewV7cg&intended=B9Y74xPg4Isk3jFBT-R7Sqmyq0ibJ8Pcp0y09OhWK9NLk5h9kXDmKqAP4aBx8QTji4br5xzpMhUjjuS6Nnsf5XSToyCrjfdd-aodCL4M3cfJOx6-zQ&ttl=1795705623&signature=36a5074e66e90d3f5f66722407b0724151a4029f732da3b6951a0f21c16b6f5f
-2026-11-26 15:06:03,427 [INFO] 
+2026-11-26 23:44:27,940 [INFO]     Hop 1: https://maskr.blog/11k1DhTKJjThRlLhepyP
+2026-11-26 23:44:28,126 [INFO]     302 → https://sportspib.com/?source=maskr&token=amFteEXonkUPT9bCcUPQVRmtGoQ3_GtUp-11p__kE-I9UMPV8VUWF1OXWCzJir11J5yopZ_-YZBzgFqN__AB_fXCghLTRIMcb8bQfwbqhjO_J_iGVvK4F4V3dKjvbvKFHNQf-1bOEDutSND-Z8yILoNzELVpKzWfdNW6RGSzwRdC8_F0Z5Tlf9-RCRzTdkmTKtraR83jeWjyGVW6T87rR70EVyrxNJyf7trUO1PhDHnWtfDeFV18cBCXPGug&intended=VYRe-S4SSWwBySiQyunSdsw1ea0S12Lh_1y57-uB1hN-BHdcBWqw-_AadO1ZlEuLmd2iKcdLT8rZkeYtC_nO0j02fE9XsoFCTRZRmKuGt4GjRiAIgA&ttl=1795736728&signature=5fdd995f841cbdb632d5001eaf1c27c5b86b7afa61e7546b4484e0e0525f152b
+2026-11-26 23:44:28,126 [INFO]     Hop 2: https://sportspib.com/?source=maskr&token=amFteEXonkUPT9bCcUPQVRmtGoQ3_GtUp-11p__kE-I9UMPV8VUWF1OXWCzJir11J5yopZ_-YZBzgFqN__AB_fXCghLTRIMcb8bQfwbqhjO_J_iGVvK4F4V3dKjvbvKFHNQf-1bOEDutSND-Z8yILoNzELVpKzWfdNW6RGSzwRdC8_F0Z5Tlf9-RCRzTdkmTKtraR83jeWjyGVW6T87rR70EVyrxNJyf7trUO1PhDHnWtfDeFV18cBCXPGug&intended=VYRe-S4SSWwBySiQyunSdsw1ea0S12Lh_1y57-uB1hN-BHdcBWqw-_AadO1ZlEuLmd2iKcdLT8rZkeYtC_nO0j02fE9XsoFCTRZRmKuGt4GjRiAIgA&ttl=1795736728&signature=5fdd995f841cbdb632d5001eaf1c27c5b86b7afa61e7546b4484e0e0525f152b
+2026-11-26 23:44:28,126 [INFO]     ✅ Destination: https://sportspib.com/?source=maskr&token=amFteEXonkUPT9bCcUPQVRmtGoQ3_GtUp-11p__kE-I9UMPV8VUWF1OXWCzJir11J5yopZ_-YZBzgFqN__AB_fXCghLTRIMcb8bQfwbqhjO_J_iGVvK4F4V3dKjvbvKFHNQf-1bOEDutSND-Z8yILoNzELVpKzWfdNW6RGSzwRdC8_F0Z5Tlf9-RCRzTdkmTKtraR83jeWjyGVW6T87rR70EVyrxNJyf7trUO1PhDHnWtfDeFV18cBCXPGug&intended=VYRe-S4SSWwBySiQyunSdsw1ea0S12Lh_1y57-uB1hN-BHdcBWqw-_AadO1ZlEuLmd2iKcdLT8rZkeYtC_nO0j02fE9XsoFCTRZRmKuGt4GjRiAIgA&ttl=1795736728&signature=5fdd995f841cbdb632d5001eaf1c27c5b86b7afa61e7546b4484e0e0525f152b
+2026-11-26 23:44:28,126 [INFO]   → https://sportspib.com/?source=maskr&token=amFteEXonkUPT9bCcUPQVRmtGoQ3_GtUp-11p__kE-I9UMPV8VUWF1OXWCzJir11J5yopZ_-YZBzgFqN__AB_fXCghLTRIMcb8bQfwbqhjO_J_iGVvK4F4V3dKjvbvKFHNQf-1bOEDutSND-Z8yILoNzELVpKzWfdNW6RGSzwRdC8_F0Z5Tlf9-RCRzTdkmTKtraR83jeWjyGVW6T87rR70EVyrxNJyf7trUO1PhDHnWtfDeFV18cBCXPGug&intended=VYRe-S4SSWwBySiQyunSdsw1ea0S12Lh_1y57-uB1hN-BHdcBWqw-_AadO1ZlEuLmd2iKcdLT8rZkeYtC_nO0j02fE9XsoFCTRZRmKuGt4GjRiAIgA&ttl=1795736728&signature=5fdd995f841cbdb632d5001eaf1c27c5b86b7afa61e7546b4484e0e0525f152b
+2026-11-26 23:44:28,126 [INFO] 
 ==================================================
-2026-11-26 15:06:03,427 [INFO] Opening 5 pages in browser
-2026-11-26 15:06:03,427 [INFO] ====== WebDriver manager ======
-2026-11-26 15:06:03,507 [INFO] Get LATEST chromedriver version for google-chrome
-2026-11-26 15:06:03,562 [INFO] Get LATEST chromedriver version for google-chrome
-2026-11-26 15:06:03,591 [INFO] There is no [linux64] chromedriver "158.0.8127.88" for browser google-chrome "158.0.8127" in cache
-2026-11-26 15:06:03,591 [INFO] Get LATEST chromedriver version for google-chrome
-2026-11-26 15:06:03,698 [INFO] WebDriver version 158.0.8127.88 selected
-2026-11-26 15:06:03,706 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/158.0.8127.88/linux64/chromedriver-linux64.zip
-2026-11-26 15:06:03,706 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/158.0.8127.88/linux64/chromedriver-linux64.zip
-2026-11-26 15:06:03,782 [INFO] Driver downloading response is 200
-2026-11-26 15:06:03,923 [INFO] Get LATEST chromedriver version for google-chrome
-2026-11-26 15:06:04,114 [INFO] Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/158.0.8127.88]
-2026-11-26 15:06:04,619 [INFO]   CDP: blocked 77 ad URL patterns
-2026-11-26 15:06:04,619 [INFO] 
+2026-11-26 23:44:28,126 [INFO] Opening 5 pages in browser
+2026-11-26 23:44:28,126 [INFO] ====== WebDriver manager ======
+2026-11-26 23:44:28,187 [INFO] Get LATEST chromedriver version for google-chrome
+2026-11-26 23:44:28,234 [INFO] Get LATEST chromedriver version for google-chrome
+2026-11-26 23:44:28,290 [INFO] There is no [linux64] chromedriver "158.0.8127.88" for browser google-chrome "158.0.8127" in cache
+2026-11-26 23:44:28,290 [INFO] Get LATEST chromedriver version for google-chrome
+2026-11-26 23:44:28,420 [INFO] WebDriver version 158.0.8127.88 selected
+2026-11-26 23:44:28,425 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/158.0.8127.88/linux64/chromedriver-linux64.zip
+2026-11-26 23:44:28,425 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/158.0.8127.88/linux64/chromedriver-linux64.zip
+2026-11-26 23:44:28,525 [INFO] Driver downloading response is 200
+2026-11-26 23:44:28,710 [INFO] Get LATEST chromedriver version for google-chrome
+2026-11-26 23:44:28,866 [INFO] Driver has been saved in cache [/home/runner/.wdm/drivers/chromedriver/linux64/158.0.8127.88]
+2026-11-26 23:44:29,193 [INFO]   CDP: blocked 77 ad URL patterns
+2026-11-26 23:44:29,194 [INFO] 
 ────────────────────────────────────────
-2026-11-26 15:06:04,619 [INFO]   Navigating: https://kollypress.com/?source=maskr&token=HTc90YhEs_rtBsfy3OmBwt6LgSsQbnP-EBTCzOtmDesT9KrBzOoSXnGxpKPWyffER399ek9EpLrRtUdzVGCOLxhs13d2Z7seNuhjeTx9h9onDDDVBPvf9RMRYV-bKUTI3PSp18CaHstMzGT_6umKo4TTALbeXKeTBi5X26Q4wpbA1qX7D3EWvwwGhWETDu-DD9mZBnGN4qk_U29R2HMEM7bTIDk6Ra3pDFDvlPx6hNu1MOR9ZMYb7mkZmkEFYg&intended=9oHSL2mztKmDVHuqafUBhit9k_D97tpbLP2OKiUfap_dsk9vnScYoyLTeY4TjhdqblQHfKtowjkcKrBtb6ZehYkOvxApQFWPtdvQTEfyUqtIPMohhA&ttl=1795705622&signature=080283d0d22a2d5b4ec539529bd35c3a0a76bdca775df25402e42e58c7221997
-2026-11-26 15:06:23,655 [INFO]   Waiting... (3s/15s)
-2026-11-26 15:06:26,678 [INFO]   Waiting... (6s/15s)
-2026-11-26 15:06:29,698 [INFO]   Waiting... (9s/15s)
-2026-11-26 15:06:32,716 [INFO]   Waiting... (12s/15s)
-2026-11-26 15:06:35,761 [INFO]   Waiting... (15s/15s)
-2026-11-26 15:06:35,830 [INFO]   Video iframe: https://stream2.zoloj.com/player?lang=tamil
-2026-11-26 15:06:38,892 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f9859adedbff6a87f39acfb0d823b4a3196241587d4471a8b675d0009d326a2a
-2026-11-26 15:06:38,892 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f9859adedbff6a87f39acfb0d823b4a3196241587d4471a8b675d0009d326a2a
-2026-11-26 15:06:38,892 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f9859adedbff6a87f39acfb0d823b4a3196241587d4471a8b675d0009d326a2a
-2026-11-26 15:06:38,893 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f9859adedbff6a87f39acfb0d823b4a3196241587d4471a8b675d0009d326a2a
-2026-11-26 15:06:38,901 [INFO]   Found m3u8 after 3s
-2026-11-26 15:06:38,974 [INFO]   ✅ 1 m3u8 from https://kollypress.com/?source=maskr&token=HTc90YhEs_rtBsfy3OmBwt6LgSsQbnP-EBTCzOtmDesT9KrBzOoSXnGxpKPWyffER399ek9EpLrRtUdzVGCOLxhs13d2Z7seNuhjeTx9h9onDDDVBPvf9RMRYV-bKUTI3PSp18CaHstMzGT_6umKo4TTALbeXKeTBi5X26Q4wpbA1qX7D3EWvwwGhWETDu-DD9mZBnGN4qk_U29R2HMEM7bTIDk6Ra3pDFDvlPx6hNu1MOR9ZMYb7mkZmkEFYg&intended=9oHSL2mztKmDVHuqafUBhit9k_D97tpbLP2OKiUfap_dsk9vnScYoyLTeY4TjhdqblQHfKtowjkcKrBtb6ZehYkOvxApQFWPtdvQTEfyUqtIPMohhA&ttl=1795705622&signature=080283d0d22a2d5b4ec539529bd35c3a0a76bdca775df25402e42e58c7221997
-2026-11-26 15:06:38,974 [INFO] 
+2026-11-26 23:44:29,194 [INFO]   Navigating: https://sportspib.com/?source=maskr&token=xIBpaDbJQOuLuQmdKvAXYLqheJkN_dIwy2Ls506lUeP3lRQNHuvL9D4KDZUER8aicRal1D9YkCL2nBN-iZuwlrMvZxZOlogPZMqSRWdz56ZoDAqUtABmQfRgO58-sIYK4tZqODGh4ZQRE_Gm7hGh3JcWnoSSiW185uNx162jD0kjdU7PGm4lmlx_ZUnf6wUB-ceR1jj5hrrfWq3h4OMbxGwhB9TIBwLe9ZYWgfdXLZE5TdIs92P6komVqIHK&intended=nu66-Ua-swdjUcwRgX_1EF8P3wkLOUYcpYG2SXxFtqcvkE6GyEJY9rc0aH8lexK6Ofy1Lk1_zrSiKmGydaXZMMlx3AWgeaqCZybhUCkol7mIer0b0w&ttl=1795736727&signature=f1c860817011295e30710e80b892f7712f946e02eb456527fa730159bccef439
+2026-11-26 23:44:38,949 [INFO]   Waiting... (3s/15s)
+2026-11-26 23:44:41,984 [INFO]   Waiting... (6s/15s)
+2026-11-26 23:44:45,001 [INFO]   Waiting... (9s/15s)
+2026-11-26 23:44:48,017 [INFO]   Waiting... (12s/15s)
+2026-11-26 23:44:51,030 [INFO]   Waiting... (15s/15s)
+2026-11-26 23:44:51,071 [INFO]   Video iframe: https://stream2.zoloj.com/player?lang=tamil
+2026-11-26 23:44:54,102 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:44:54,102 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:44:54,102 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:44:54,102 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:44:54,103 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:44:54,103 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:44:54,107 [INFO]   Found m3u8 after 3s
+2026-11-26 23:44:54,166 [INFO]   ✅ 1 m3u8 from https://sportspib.com/?source=maskr&token=xIBpaDbJQOuLuQmdKvAXYLqheJkN_dIwy2Ls506lUeP3lRQNHuvL9D4KDZUER8aicRal1D9YkCL2nBN-iZuwlrMvZxZOlogPZMqSRWdz56ZoDAqUtABmQfRgO58-sIYK4tZqODGh4ZQRE_Gm7hGh3JcWnoSSiW185uNx162jD0kjdU7PGm4lmlx_ZUnf6wUB-ceR1jj5hrrfWq3h4OMbxGwhB9TIBwLe9ZYWgfdXLZE5TdIs92P6komVqIHK&intended=nu66-Ua-swdjUcwRgX_1EF8P3wkLOUYcpYG2SXxFtqcvkE6GyEJY9rc0aH8lexK6Ofy1Lk1_zrSiKmGydaXZMMlx3AWgeaqCZybhUCkol7mIer0b0w&ttl=1795736727&signature=f1c860817011295e30710e80b892f7712f946e02eb456527fa730159bccef439
+2026-11-26 23:44:54,166 [INFO] 
 ────────────────────────────────────────
-2026-11-26 15:06:38,974 [INFO]   Navigating: https://sportspib.com/?source=maskr&token=6rzuMRtGqzC-NovZ3_DrSeO8Ue2tjqmkfTXEaH8UkVvM_XYO-nPuCNfk6gH6kSoTOttdr1KzOkfHNpAZRS7LdthOrTFPBBYllN432nywk-Et3LL878Dsl0PaUem75ckwB6iiPzzjUv-Q-UptPZQaWzbBclFSWwbSQ-SJ77pSFbLQswCL-ItHmQqUNsGU1EgkZ3Zt5lwENg9wwgsDNiivMu7ZSfXqJfpSKCJd44y6_24lhRR9AE0dqZ8Au_nm&intended=wFfqRlqBZ-usmFoorHqpaXQ22QPDTHKcnOrZd-_O4RkLPhmSlaNcsZ1yNbYCxbJlBT5Tq3SymvxiYTBve_oxPNjT3gF9eTqVdF0L7AascyPCRualau8&ttl=1795705622&signature=612d8c44bbf8800c04215102ee72117811e039dd3b75a309ebcd5340e5ab3ba7
-2026-11-26 15:06:49,192 [INFO]   Waiting... (3s/15s)
-2026-11-26 15:06:52,221 [INFO]   Waiting... (6s/15s)
-2026-11-26 15:06:55,246 [INFO]   Waiting... (9s/15s)
-2026-11-26 15:06:58,268 [INFO]   Waiting... (12s/15s)
-2026-11-26 15:07:01,291 [INFO]   Waiting... (15s/15s)
-2026-11-26 15:07:01,362 [INFO]   Video iframe: https://stream2.zoloj.com/player?lang=telugu
-2026-11-26 15:07:04,399 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=2583c16e8db37834f6a7383329ff94d107f42b0ed3d64841e9780c6224846811
-2026-11-26 15:07:04,399 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=2583c16e8db37834f6a7383329ff94d107f42b0ed3d64841e9780c6224846811
-2026-11-26 15:07:04,399 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=2583c16e8db37834f6a7383329ff94d107f42b0ed3d64841e9780c6224846811
-2026-11-26 15:07:04,399 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=2583c16e8db37834f6a7383329ff94d107f42b0ed3d64841e9780c6224846811
-2026-11-26 15:07:04,407 [INFO]   Found m3u8 after 3s
-2026-11-26 15:07:04,464 [INFO]   ✅ 1 m3u8 from https://sportspib.com/?source=maskr&token=6rzuMRtGqzC-NovZ3_DrSeO8Ue2tjqmkfTXEaH8UkVvM_XYO-nPuCNfk6gH6kSoTOttdr1KzOkfHNpAZRS7LdthOrTFPBBYllN432nywk-Et3LL878Dsl0PaUem75ckwB6iiPzzjUv-Q-UptPZQaWzbBclFSWwbSQ-SJ77pSFbLQswCL-ItHmQqUNsGU1EgkZ3Zt5lwENg9wwgsDNiivMu7ZSfXqJfpSKCJd44y6_24lhRR9AE0dqZ8Au_nm&intended=wFfqRlqBZ-usmFoorHqpaXQ22QPDTHKcnOrZd-_O4RkLPhmSlaNcsZ1yNbYCxbJlBT5Tq3SymvxiYTBve_oxPNjT3gF9eTqVdF0L7AascyPCRualau8&ttl=1795705622&signature=612d8c44bbf8800c04215102ee72117811e039dd3b75a309ebcd5340e5ab3ba7
-2026-11-26 15:07:04,464 [INFO] 
+2026-11-26 23:44:54,166 [INFO]   Navigating: https://kollypress.com/?source=maskr&token=PI0aS7wVU1nrsF5u9uo9AvTKdD4cyV1cF3CypDQaO4rAM4_CAvVAYSj6VMtGWTjYXYwFldqTPd6t5nKF57wjhdZx2vCuZCP7G6MIu7H1qxSqSfOqlo78_ivszjX6e3rSMCxjqBB3kCqDA-qa3W3wSG4SQNMs7jplJ0yIr7nxSjOxGHEc27SbJsl214mKfv__gmYDoOkXvCkq4Ng6imvaOq7kAad0aOhBmO9Ft-ucXAlpmkHdqPXlB6mnHACK2g&intended=8ySs_18yTzlmxY-cC8pGFkrvGnqCjiFXVRTL-C7ZekEPwALP2KBPxp1dur5BXpWXa9sQeCNK1lymjR373YIZgxJ5TIrqXI1OpHh7Ry8psGV8cYSUH3k&ttl=1795736727&signature=fbea47250a475189c7bea98378de3ecd1d86039ff8b4c3bc20717d828d5b9226
+2026-11-26 23:45:03,225 [INFO]   Waiting... (3s/15s)
+2026-11-26 23:45:06,524 [INFO]   Waiting... (6s/15s)
+2026-11-26 23:45:09,536 [INFO]   Waiting... (9s/15s)
+2026-11-26 23:45:12,546 [INFO]   Waiting... (12s/15s)
+2026-11-26 23:45:15,556 [INFO]   Waiting... (15s/15s)
+2026-11-26 23:45:15,596 [INFO]   Video iframe: https://stream2.zoloj.com/player?lang=telugu
+2026-11-26 23:45:18,623 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:45:18,624 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:45:18,624 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:45:18,624 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:45:18,624 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:45:18,624 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:45:18,629 [INFO]   Found m3u8 after 3s
+2026-11-26 23:45:18,684 [INFO]   ✅ 1 m3u8 from https://kollypress.com/?source=maskr&token=PI0aS7wVU1nrsF5u9uo9AvTKdD4cyV1cF3CypDQaO4rAM4_CAvVAYSj6VMtGWTjYXYwFldqTPd6t5nKF57wjhdZx2vCuZCP7G6MIu7H1qxSqSfOqlo78_ivszjX6e3rSMCxjqBB3kCqDA-qa3W3wSG4SQNMs7jplJ0yIr7nxSjOxGHEc27SbJsl214mKfv__gmYDoOkXvCkq4Ng6imvaOq7kAad0aOhBmO9Ft-ucXAlpmkHdqPXlB6mnHACK2g&intended=8ySs_18yTzlmxY-cC8pGFkrvGnqCjiFXVRTL-C7ZekEPwALP2KBPxp1dur5BXpWXa9sQeCNK1lymjR373YIZgxJ5TIrqXI1OpHh7Ry8psGV8cYSUH3k&ttl=1795736727&signature=fbea47250a475189c7bea98378de3ecd1d86039ff8b4c3bc20717d828d5b9226
+2026-11-26 23:45:18,684 [INFO] 
 ────────────────────────────────────────
-2026-11-26 15:07:04,464 [INFO]   Navigating: https://kollypress.com/?source=maskr&token=eRvA-7iMDRt6jcc86Pxe-W7GDnB7xXVPVeCIobEZLiBqDIw4RxuArfQPHDyt5YV7WJm0cu2jF0OAH2h-V1ddSgKVFjY9wZb2fbzBDHX6h7YK19AubsydBc71A9ng7uz9eKwSUX5m5cdZ0m_u9XMw2adPHV289wa-7vbEWZbK3UUDAlbhka2N0J55QBAi5Th1HrPY0E51hVHC-Es8dnSAZEZnQhnk-JAdXpHFWVOFaFQup-IjfCQVBwUk6ENlIA&intended=742nxSuBYn3gd3e-PXs5B-fHw8TeG6tJSMDMe14p7XmjiPrnlDy-jEpVaX2G555YamdA6a9udmbbaPUYhbiDaGxhMUDE1xhio-m9WvuTnX988YfSeh8&ttl=1795705622&signature=a6fe2ec730e36f2593dba3b4cad2e255b21d20d8c56a4dd8ec76e4cee8c93659
-2026-11-26 15:07:29,332 [INFO]   Waiting... (3s/15s)
-2026-11-26 15:07:32,361 [INFO]   Waiting... (6s/15s)
-2026-11-26 15:07:35,413 [INFO]   Waiting... (9s/15s)
-2026-11-26 15:07:38,465 [INFO]   Waiting... (12s/15s)
-2026-11-26 15:07:41,492 [INFO]   Waiting... (15s/15s)
-2026-11-26 15:07:41,611 [INFO] 
+2026-11-26 23:45:18,684 [INFO]   Navigating: https://sportspib.com/?source=maskr&token=NV5ayAIvKtBNdZpO4FsirJkhL5mUYHM45R4yOO1UE0V4xTJyfNWNNqnPxmC3Fzc4eK6TRX6KI8uCnyGp_Fx6RuUqQhN6gz6C-G_jk4FhVBiO8_32sVlrIm1Sv7HdzyokULZVZto6NBZPHhY3b92Os3LuqG1nz-Qrpa-Gkd3LkTPBrkftxt4tAZAXKfWdQH0CI8sHADFwZH0EAkf43i6Ka8Hpw7fk4K-wTDQizxU4m-fs2sZt8Z-UJljp4HCk&intended=S5PKrefnvty-mSV5PEu2G3_i3aJ_wIP66Xsd8lEgiCcdJw4itpFpb5bKvA0ZPKKQ4iaLjHEzoK4Dg0bLScefxC_tCLEcXvBX1macIPTo6q6ctnMUU9c&ttl=1795736727&signature=65af65fcb27800a5bb562dd3737417c475529b4e8a807070c4684b1f6b601abe
+2026-11-26 23:45:27,278 [INFO]   Waiting... (3s/15s)
+2026-11-26 23:45:30,293 [INFO]   Waiting... (6s/15s)
+2026-11-26 23:45:33,308 [INFO]   Waiting... (9s/15s)
+2026-11-26 23:45:36,324 [INFO]   Waiting... (12s/15s)
+2026-11-26 23:45:39,338 [INFO]   Waiting... (15s/15s)
+2026-11-26 23:45:39,380 [INFO]   Video iframe: https://stream2.zoloj.com/player?lang=malayalam
+2026-11-26 23:45:42,411 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/malayalam.m3u8?sid=eba0044bd72084f053db91991eeabb597b9ca5b9bee2e0cb0fe23b68ac0e8159
+2026-11-26 23:45:42,411 [INFO]   🎯 CDP: https://stream2.zoloj.com/stream/malayalam.m3u8?sid=eba0044bd72084f053db91991eeabb597b9ca5b9bee2e0cb0fe23b68ac0e8159
+2026-11-26 23:45:42,417 [INFO]   Found m3u8 after 3s
+2026-11-26 23:45:42,472 [INFO]   ✅ 1 m3u8 from https://sportspib.com/?source=maskr&token=NV5ayAIvKtBNdZpO4FsirJkhL5mUYHM45R4yOO1UE0V4xTJyfNWNNqnPxmC3Fzc4eK6TRX6KI8uCnyGp_Fx6RuUqQhN6gz6C-G_jk4FhVBiO8_32sVlrIm1Sv7HdzyokULZVZto6NBZPHhY3b92Os3LuqG1nz-Qrpa-Gkd3LkTPBrkftxt4tAZAXKfWdQH0CI8sHADFwZH0EAkf43i6Ka8Hpw7fk4K-wTDQizxU4m-fs2sZt8Z-UJljp4HCk&intended=S5PKrefnvty-mSV5PEu2G3_i3aJ_wIP66Xsd8lEgiCcdJw4itpFpb5bKvA0ZPKKQ4iaLjHEzoK4Dg0bLScefxC_tCLEcXvBX1macIPTo6q6ctnMUU9c&ttl=1795736727&signature=65af65fcb27800a5bb562dd3737417c475529b4e8a807070c4684b1f6b601abe
+2026-11-26 23:45:42,472 [INFO] 
 ────────────────────────────────────────
-2026-11-26 15:07:41,611 [INFO]   Navigating: https://sportspib.com/?source=maskr&token=f_bfHXC1-ICcuLlhT8WD1JhNBQGt0Re-J1hY90tKraJkfJvloiEhj73b1L0_Z6hfNC_hEySJVasn1dN1_YPuCOukWiIiFRJ-pFZdNZjstO-ECum7PggWe-hcgDZ9UKgwu6fcxYBjZ2ZdCoqzXRfgwxuK_vTzspejBhDG06F-F4RRF3YNT910NCO6DFLpZCIgfzk4WNYetgzHOlM3ZbtD1Gc6LQ_gKjJXqRcIgqy6Jko6_tHHM1hjyjF2bXmA&intended=t1zndOQBft6yrYKltStVBaCSDkYSFC1JL987X8YVHGE_BU7wJcZYANVcchz_OfTywOKLTHF4lxtrqN_YXgMl73NVO5NU8zSakupdnkXP86QPiNDlD6h5&ttl=1795705623&signature=8f58fe6ebd70abed48147f0a6b426733eec0453c5d9fa44542d2f89b732b3c6a
-2026-11-26 15:07:50,130 [INFO]   Waiting... (3s/15s)
-2026-11-26 15:07:53,160 [INFO]   Waiting... (6s/15s)
-2026-11-26 15:07:56,189 [INFO]   Waiting... (9s/15s)
-2026-11-26 15:07:59,216 [INFO]   Waiting... (12s/15s)
-2026-11-26 15:08:02,243 [INFO]   Waiting... (15s/15s)
-2026-11-26 15:08:02,343 [INFO] 
+2026-11-26 23:45:42,472 [INFO]   Navigating: https://kollypress.com/?source=maskr&token=F-LuMLEx36Dstu0m9nbAm5Hbrptcn0XGBNlTdUaN0qTGyuLur2mmkJSmcxlw2l1-NrldeJyJMKyQArh4nvsTkQTpmCd5Kr6kU0YoTO1loMQ3-n3jWnlhz6aXVdsGv3fLZuKNIil2XzHlP3GqRAwdu9KjbQ1tqIG_HsBSNYlCAypDQxT50VhGqaqce2IJXUeBpm_4bDoBxDyUXYaaCtU6gFNy5YULdwUpuUz8L10s283_YO1v_BIJFahCxVbkqw&intended=bXJRrgpJNriTGbSgIDUfBb0rnVaUS1HRJYo9p4N71C4h0yHDkWJZp9tydvtP0nXBfo-KYidKLIgbwsYEVEne0Du8M1M2g0YFBff3x1lTxXRiOM8gkk1F&ttl=1795736727&signature=996dc72031450e1b960b6590eb423ac3150b54341fceb5a25439152b7533b29b
+2026-11-26 23:45:57,517 [INFO]   Waiting... (3s/15s)
+2026-11-26 23:46:00,534 [INFO]   Waiting... (6s/15s)
+2026-11-26 23:46:03,691 [INFO]   Waiting... (9s/15s)
+2026-11-26 23:46:06,708 [INFO]   Waiting... (12s/15s)
+2026-11-26 23:46:09,726 [INFO]   Waiting... (15s/15s)
+2026-11-26 23:46:09,792 [INFO] 
 ────────────────────────────────────────
-2026-11-26 15:08:02,343 [INFO]   Navigating: https://kollypress.com/?source=maskr&token=ExLmagnFLH2V-AitreniL31FLv-1API3yDWxU2ZL27UKpJGR5PhzygR4cd51_Gh1oKDc-M3rlcbP3ZFIM6T3tFlbAGDhZ9vEFU01Vay5bPl4tlI6YhhxB-55GkkhrgSN1_vev3VlVYB11pgm5N-iQBTWKlalkyzl5IoIIbh4o9NpLpKAFTiUS2uX2SQQv_ZN9nr5br3IEDoLh5SnqWkgsGUM1WNtuUPw0Asq3EoRBc3n86-3xDX8ZdupewV7cg&intended=B9Y74xPg4Isk3jFBT-R7Sqmyq0ibJ8Pcp0y09OhWK9NLk5h9kXDmKqAP4aBx8QTji4br5xzpMhUjjuS6Nnsf5XSToyCrjfdd-aodCL4M3cfJOx6-zQ&ttl=1795705623&signature=36a5074e66e90d3f5f66722407b0724151a4029f732da3b6951a0f21c16b6f5f
-2026-11-26 15:08:10,075 [INFO]   Waiting... (3s/15s)
-2026-11-26 15:08:13,104 [INFO]   Waiting... (6s/15s)
-2026-11-26 15:08:16,133 [INFO]   Waiting... (9s/15s)
-2026-11-26 15:08:19,162 [INFO]   Waiting... (12s/15s)
-2026-11-26 15:08:22,202 [INFO]   Waiting... (15s/15s)
-2026-11-26 15:08:22,597 [INFO] 
-RESULTS: 2 streams
-2026-11-26 15:08:22,597 [INFO]   1. https://stream2.zoloj.com/stream/telugu.m3u8?sid=2583c16e8db37834f6a7383329ff94d107f42b0ed3d64841e9780c6224846811
-2026-11-26 15:08:22,598 [INFO]   2. https://stream2.zoloj.com/stream/tamil.m3u8?sid=f9859adedbff6a87f39acfb0d823b4a3196241587d4471a8b675d0009d326a2a
-2026-11-26 15:08:22,598 [INFO] 
-✅ Wrote 2 streams (live)
-2026-11-26 15:08:22,598 [INFO] Done!
+2026-11-26 23:46:09,793 [INFO]   Navigating: https://sportspib.com/?source=maskr&token=amFteEXonkUPT9bCcUPQVRmtGoQ3_GtUp-11p__kE-I9UMPV8VUWF1OXWCzJir11J5yopZ_-YZBzgFqN__AB_fXCghLTRIMcb8bQfwbqhjO_J_iGVvK4F4V3dKjvbvKFHNQf-1bOEDutSND-Z8yILoNzELVpKzWfdNW6RGSzwRdC8_F0Z5Tlf9-RCRzTdkmTKtraR83jeWjyGVW6T87rR70EVyrxNJyf7trUO1PhDHnWtfDeFV18cBCXPGug&intended=VYRe-S4SSWwBySiQyunSdsw1ea0S12Lh_1y57-uB1hN-BHdcBWqw-_AadO1ZlEuLmd2iKcdLT8rZkeYtC_nO0j02fE9XsoFCTRZRmKuGt4GjRiAIgA&ttl=1795736728&signature=5fdd995f841cbdb632d5001eaf1c27c5b86b7afa61e7546b4484e0e0525f152b
+2026-11-26 23:46:18,188 [INFO]   Waiting... (3s/15s)
+2026-11-26 23:46:21,205 [INFO]   Waiting... (6s/15s)
+2026-11-26 23:46:24,222 [INFO]   Waiting... (9s/15s)
+2026-11-26 23:46:27,238 [INFO]   Waiting... (12s/15s)
+2026-11-26 23:46:30,254 [INFO]   Waiting... (15s/15s)
+2026-11-26 23:46:30,668 [INFO] 
+RESULTS: 3 streams
+2026-11-26 23:46:30,668 [INFO]   1. https://stream2.zoloj.com/stream/tamil.m3u8?sid=f5a26385caaf2044811280a01e6cfb246218026c5e4dff32896e553bab263499
+2026-11-26 23:46:30,668 [INFO]   2. https://stream2.zoloj.com/stream/malayalam.m3u8?sid=eba0044bd72084f053db91991eeabb597b9ca5b9bee2e0cb0fe23b68ac0e8159
+2026-11-26 23:46:30,668 [INFO]   3. https://stream2.zoloj.com/stream/telugu.m3u8?sid=5c61ed643d812e0be5cb419648a34c3dde2ad06ae075ec08584497eb271b4c41
+2026-11-26 23:46:30,669 [INFO] 
+✅ Wrote 3 streams (live)
+2026-11-26 23:46:30,669 [INFO] Done!
